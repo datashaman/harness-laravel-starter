@@ -9,3 +9,6 @@ coverage/
 .mypy_cache/
 .ruff_cache/
 .tsbuildinfo
+vendor/
+.phpunit.cache/
+.phpunit.result.cache
