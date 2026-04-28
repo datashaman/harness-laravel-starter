@@ -1,0 +1,6 @@
+{
+  "$schema": "https://unpkg.com/knip@5/schema.json",
+  "entry": ["src/interface/cli.ts", "checks/**/*.test.ts", "src/**/*.test.ts"],
+  "project": ["src/**/*.ts", "checks/**/*.ts"],
+  "ignoreBinaries": ["semgrep"]
+}
